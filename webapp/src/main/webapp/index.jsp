@@ -23,6 +23,11 @@
     <label for="psw-repeat"><b>ID Details please</b></label>
     <input type="password" placeholder="Repeat Password" name="psw-repeat" id="psw-repeat" required>
     <hr>
+     <hr>
+    <label for="psw-repeat"><b>Address</b></label>
+    <input type="password" placeholder="Repeat Password" name="psw-repeat" id="psw-repeat" required>
+    <hr>
+
 
 
     <p>By creating an account you agree to our <a href="#">Terms & Privacy</a>.</p>
