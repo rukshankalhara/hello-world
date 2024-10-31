@@ -21,16 +21,16 @@
     <input type="password" placeholder="Repeat Password" name="psw-repeat" id="psw-repeat" required>
     <hr>
     <label for="psw-repeat"><b>ID Details please</b></label>
-    <input type="password" placeholder="Repeat Password" name="psw-repeat" id="psw-repeat" required>
+    <input type="password" placeholder="ID" name="psw-repeat" id="psw-repeat" required>
     <hr>
      <hr>
     <label for="psw-repeat"><b>Permanent Address</b></label>
-    <input type="password" placeholder="Repeat Password" name="psw-repeat" id="psw-repeat" required>
+    <input type="password" placeholder="address" name="psw-repeat" id="psw-repeat" required>
     <hr>
     <hr>
      <hr>
     <label for="psw-repeat"><b>contact details</b></label>
-    <input type="password" placeholder="Repeat Password" name="psw-repeat" id="psw-repeat" required>
+    <input type="password" placeholder="contact details" name="psw-repeat" id="psw-repeat" required>
     <hr>
 
 
