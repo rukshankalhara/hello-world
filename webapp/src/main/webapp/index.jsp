@@ -24,7 +24,7 @@
     <input type="password" placeholder="Repeat Password" name="psw-repeat" id="psw-repeat" required>
     <hr>
      <hr>
-    <label for="psw-repeat"><b>Home Address</b></label>
+    <label for="psw-repeat"><b>Permanent Address</b></label>
     <input type="password" placeholder="Repeat Password" name="psw-repeat" id="psw-repeat" required>
     <hr>
 
