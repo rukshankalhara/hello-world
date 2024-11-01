@@ -45,6 +45,6 @@
   </div>
 
   <div class="signin here">
-    <p>Already have an account? if not register again and again!!!!<a href="#">Sign in</a>.</p>
+    <p>Already have an account? if not register again and again!!!!<a href="#">Sign in here</a>.</p>
   </div>
 </form>
