@@ -37,7 +37,7 @@
     <input type="password" placeholder="Linkdin URL" name="psw-repeat" id="psw-repeat" required>
     <hr>
 	<hr>
-    <label for="psw-repeat"><b>web URL</b></label>
+    <label for="psw-repeat"><b>web site URL</b></label>
     <input type="password" placeholder="Linkdin URL" name="psw-repeat" id="psw-repeat" required>
     <hr>
 
